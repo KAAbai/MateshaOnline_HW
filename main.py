@@ -7,7 +7,7 @@ import time
 bot = telebot.TeleBot('6631263920:AAGeE6bwL3AFTqTRzkeq2iFALEZtYxdC51U')
 ADRES_Base = 6445576278 #Готовый id
 ADRES_Premium = 6472769351 #Готовый id
-ADRES_VIP = 6252560106 #Готовый id НОМЕР: +7 (707) 325 6100
+ADRES_VIP = 6252560106 #Готовый id
 
 #---Набор переменных необходимых для разделения пользователей
 User_level = -1
